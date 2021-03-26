@@ -12,7 +12,7 @@ import java.io.IOException;
  * JavaFX App
  */
 public class App extends Application {
-
+private int tal = 0;
     private static Scene scene;
 
     @Override
